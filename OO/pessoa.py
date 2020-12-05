@@ -7,3 +7,4 @@ if __name__ == '__main__':
     p = Pessoa()
     Pessoa.comprimentar(p)
     print(p.comprimentar())
+    xox = ''
